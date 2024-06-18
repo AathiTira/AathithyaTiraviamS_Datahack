@@ -16,7 +16,7 @@
 
 4. Preprocessor Setup:
 
-    - Numerical Data: Standardized using StandardScaler.
+    - Numerical Data: Standardized done using StandardScaler.
     - Categorical Data: Encoded using OneHotEncoder, which converts categorical variables into a form that can be provided to ML algorithms to do a better job in prediction.
 
 5. Model Definition:
