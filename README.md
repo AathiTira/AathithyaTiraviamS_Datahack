@@ -32,7 +32,7 @@
 
 7. Test Data Handling:
 
-    - The test data is loaded and preprocessed similarly to the training data.
+    - Test data is loaded and preprocessed similarly to the training data.
     - Predictions are made on the test data to generate probabilities for each target variable.
 
 8. Submission Preparation:
