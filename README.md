@@ -6,7 +6,7 @@
 
 2. Preprocessing:
 
-    - Missing Values: Categorical columns have missing values filled with the mode (most frequent value), and numerical columns are filled with the median.
+    - Dealing with Missing Values: Categorical columns have missing values filled with the mode (most frequent value), and numerical columns are filled with the median.
     - Separate Features and Targets: The features (X) and target variables (y) are separated after merging the datasets.
 
 3. Feature Identification:
