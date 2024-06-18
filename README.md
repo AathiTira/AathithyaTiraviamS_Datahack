@@ -1,7 +1,7 @@
 # Method and Approach
 1. Loading the Data:
 
-    - Features and labels are loaded from separate CSV files.
+    - The Features and labels are loaded from separate CSV files.
     - The datasets are merged on the respondent_id column to create a unified DataFrame.
 
 2. Preprocessing:
